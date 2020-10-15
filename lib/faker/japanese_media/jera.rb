@@ -22,6 +22,14 @@ module Faker
         def opening_url
           fetch('jera.openings')
         end
+
+        ##
+        # Produces a meme from Jera.
+        #
+        # @return [String]
+        def meme
+          fetch('jera.memes')
+        end
       end
     end
   end

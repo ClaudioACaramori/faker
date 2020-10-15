@@ -252,6 +252,7 @@ gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'mast
   - [Faker::Games::Zelda](doc/games/zelda.md)
 
 ### Japanese Media
+  - [Faker::JapaneseMedia::Jera](doc/japanese_media/jera.md)
   - [Faker::JapaneseMedia::DragonBall](doc/japanese_media/dragon_ball.md)
   - [Faker::JapaneseMedia::OnePiece](doc/japanese_media/one_piece.md)
   - [Faker::JapaneseMedia::SwordArtOnline](doc/japanese_media/sword_art_online.md)
