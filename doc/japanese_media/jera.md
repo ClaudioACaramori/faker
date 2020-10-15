@@ -7,5 +7,5 @@ Faker::JapaneseMedia::Jera.character #=> "Alberto Bazilio"
 
 Faker::JapaneseMedia::Jera.opening_url #=> "https://youtu.be/rrgUXj77-wE"
 
-Faker::JapaneseMedia::Jera.meme #=> "Tive que me foder aqui"
+Faker::JapaneseMedia::Jera.meme #=> "Diogo não trabalha"
 ```
